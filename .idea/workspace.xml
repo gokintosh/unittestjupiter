@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1550d063-5ee0-4255-a445-4a49276e5fe1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1olBgjiaswkumK6cJeaVynX9WwZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TripletSumTest">
+    <configuration name="StringPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringPalindrome" />
+      <module name="unittestinginterview" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TripletSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TripletSum" />
+      <module name="unittestinginterview" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringPalindromeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittestinginterview" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StringPalindromeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TripletSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittestinginterview" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TripletSumTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TripletSumTest" />
+        <item itemvalue="Application.TripletSum" />
+        <item itemvalue="JUnit.StringPalindromeTest" />
+        <item itemvalue="Application.StringPalindrome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1550d063-5ee0-4255-a445-4a49276e5fe1" name="Default Changelist" comment="" />
+      <created>1613851409720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613851409720</updated>
+      <workItem from="1613851412371" duration="3213000" />
+      <workItem from="1613858803164" duration="239000" />
+      <workItem from="1613894317289" duration="6680000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1613900123813">
+      <screen x="0" y="-1080" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1536.834/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1613900123813" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1613900123812">
+      <screen x="0" y="-1080" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1536.834/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1613900123812" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1613900123812">
+      <screen x="0" y="-1080" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1536.834/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1613900123812" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1613900123812">
+      <screen x="0" y="-1080" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1536.834/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1613900123812" />
+    <state x="440" y="-980" key="SettingsEditor" timestamp="1613858862699">
+      <screen x="0" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="440" y="-980" key="SettingsEditor/0.0.1536.834/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1613858862699" />
+    <state x="656" y="-730" key="com.intellij.ide.util.TipDialog" timestamp="1613894317325">
+      <screen x="0" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="656" y="-730" key="com.intellij.ide.util.TipDialog/0.0.1536.834/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1613894317325" />
+    <state x="731" y="-836" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1613896614452">
+      <screen x="0" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="731" y="-836" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.834/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1613896614452" />
+  </component>
+</project>
