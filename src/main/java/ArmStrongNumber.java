@@ -15,9 +15,11 @@ public class ArmStrongNumber {
         while(num!=0){
             int rem=num%10;
             num=num/10;
-            sum=(int) Math.pow(rem,count);
+            sum=sum+(int) Math.pow(rem,count);
 
         }
+        System.out.println("original number"+originalDigit);
+        System.out.println("arm strong number"+sum);
 
         return originalDigit==sum;
 
@@ -30,5 +32,9 @@ public class ArmStrongNumber {
             count++;
         }
         return count;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(isArmStrong(153));
     }
 }

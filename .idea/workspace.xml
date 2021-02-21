@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1550d063-5ee0-4255-a445-4a49276e5fe1" name="Default Changelist" comment="" />
+    <list default="true" id="1550d063-5ee0-4255-a445-4a49276e5fe1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArmStrongNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ArmStrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArmStrongNumber.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +14,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -23,6 +30,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1olBgjiaswkumK6cJeaVynX9WwZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -47,9 +55,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TripletSumTest">
-    <configuration name="StringPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringPalindrome" />
+  <component name="RunManager" selected="JUnit.ArmStrongNumberTest">
+    <configuration name="ArmStrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArmStrongNumber" />
       <module name="unittestinginterview" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,11 +70,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringPalindromeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArmStrongNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="unittestinginterview" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="StringPalindromeTest" />
+      <option name="MAIN_CLASS_NAME" value="ArmStrongNumberTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArmStrongNumberTest.isArmStrongTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittestinginterview" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArmStrongNumberTest" />
+      <option name="METHOD_NAME" value="isArmStrongTest1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -82,10 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ArmStrongNumberTest" />
+        <item itemvalue="JUnit.ArmStrongNumberTest.isArmStrongTest1" />
+        <item itemvalue="Application.ArmStrongNumber" />
         <item itemvalue="JUnit.TripletSumTest" />
         <item itemvalue="Application.TripletSum" />
-        <item itemvalue="JUnit.StringPalindromeTest" />
-        <item itemvalue="Application.StringPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +120,7 @@
       <updated>1613851409720</updated>
       <workItem from="1613851412371" duration="3213000" />
       <workItem from="1613858803164" duration="239000" />
-      <workItem from="1613894317289" duration="6680000" />
+      <workItem from="1613894317289" duration="8013000" />
     </task>
     <servers />
   </component>
@@ -109,22 +128,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1613900123813">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1613904878071">
       <screen x="0" y="-1080" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1536.834/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1613900123813" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1613900123812">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1536.834/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1613904878071" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1613904878071">
       <screen x="0" y="-1080" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1536.834/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1613900123812" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1613900123812">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1536.834/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1613904878071" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1613904878070">
       <screen x="0" y="-1080" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1536.834/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1613900123812" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1613900123812">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1536.834/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1613904878070" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1613904878071">
       <screen x="0" y="-1080" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1536.834/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1613900123812" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1536.834/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1613904878071" />
     <state x="440" y="-980" key="SettingsEditor" timestamp="1613858862699">
       <screen x="0" y="-1080" width="1920" height="1050" />
     </state>
@@ -133,9 +152,13 @@
       <screen x="0" y="-1080" width="1920" height="1050" />
     </state>
     <state x="656" y="-730" key="com.intellij.ide.util.TipDialog/0.0.1536.834/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1613894317325" />
-    <state x="731" y="-836" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1613896614452">
+    <state x="731" y="-836" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1613903565970">
       <screen x="0" y="-1080" width="1920" height="1050" />
     </state>
-    <state x="731" y="-836" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.834/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1613896614452" />
+    <state x="731" y="-836" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.834/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1613903565970" />
+    <state x="623" y="-853" width="672" height="678" key="search.everywhere.popup" timestamp="1613903494873">
+      <screen x="0" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="623" y="-853" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1613903494873" />
   </component>
 </project>
